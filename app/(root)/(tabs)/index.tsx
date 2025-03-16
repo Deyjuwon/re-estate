@@ -9,6 +9,7 @@ export default function Index() {
         justifyContent: "center",
         alignItems: "center",
       }}
+      className="bg-primary-200"
     >
       <Text className="font-bold text-red-600 my-10">welcome</Text>
       <Link href='/sign-in'>Sign In</Link>
